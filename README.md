@@ -177,3 +177,4 @@ Otherwise, uv will warn that your active `$VIRTUAL_ENV` differs from the project
 - Groq for fast OSS model serving
 - Astral for `uv`
 - MCP ecosystem for protocol foundation
+- https://www.youtube.com/@AI.with.Hassan
